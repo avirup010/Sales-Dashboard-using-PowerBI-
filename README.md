@@ -19,3 +19,4 @@ Open the Power BI file (.pbix) with Power BI Desktop.
 
 Screenshot
 ![1700335935245](https://github.com/user-attachments/assets/ebb128e1-bdfa-4902-b375-4617212a39b4)
+edit - had to change the screenshot due to copyright issues with the dataset that I found online, In the updated version there's another sales dashboard made using powerbi with a different dataset
