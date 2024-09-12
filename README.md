@@ -17,8 +17,5 @@ Download and install Power BI Desktop.
 Clone this repository to your local machine.
 Open the Power BI file (.pbix) with Power BI Desktop.
 
-Screenshots
-![image](https://github.com/user-attachments/assets/257c1184-c89d-4434-ab89-bcf76526678e)
-![image](https://github.com/user-attachments/assets/cb2f248e-5205-4959-88bb-0c8182fffafb)
-![image](https://github.com/user-attachments/assets/cbd36a23-92b6-4077-8312-81bd989469ce)
-![image](https://github.com/user-attachments/assets/ac3a9ef3-8539-4241-877a-3e2e9abd95b0)
+Screenshot
+![1700335935245](https://github.com/user-attachments/assets/ebb128e1-bdfa-4902-b375-4617212a39b4)
